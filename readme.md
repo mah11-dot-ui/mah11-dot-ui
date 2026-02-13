@@ -22,9 +22,9 @@
   ---
 
   ### 🌐 Let's Connect
-  <a href="https://linkedin.com/in/YOUR_LINK_HERE" target="blank"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61577901490891" target="blank"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hmahmood071@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.behance.net/mahmoodhassan19" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="https://www.behance.net/mahmoodhassan19" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 
 </div>
 
