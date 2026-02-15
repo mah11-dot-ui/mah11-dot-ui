@@ -9,7 +9,7 @@
   ---
 
   ### 🛠️ Tech Stack & Tools
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode,tailwind" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode,tailwind,daisyui" alt="Skills" />
 
   <br>
 
