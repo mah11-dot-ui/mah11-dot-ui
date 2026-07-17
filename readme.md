@@ -72,6 +72,17 @@ I bridge the critical gap between complex engineering systems and pixel-perfect 
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mah11-dot-ui&theme=tokyonight" alt="Activity Graph" />
     </td>
   </tr>
+  <!-- 🐍 NEW: Contribution Snake Game Integration -->
+  <tr>
+    <td colspan="2" align="center">
+      <br/><strong>Contribution Pipeline Gamification</strong><br/><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mah11-dot-ui/mah11-dot-ui/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mah11-dot-ui/mah11-dot-ui/output/github-contribution-grid-snake.svg">
+        <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mah11-dot-ui/mah11-dot-ui/output/github-contribution-grid-snake.svg" width="100%">
+      </picture>
+    </td>
+  </tr>
 </table>
 
 ---
