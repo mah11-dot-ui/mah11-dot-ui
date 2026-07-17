@@ -1,9 +1,10 @@
 <div align="center">
-  <!-- Unified Brand Header -->
+  <!-- Brand Header Banner -->
   <img src="images/github_banner.jpg" alt="mah11-dot-ui banner" width="100%">
   
   <br/>
   
+  <!-- Identity & Corporate Role -->
   <h1>📍 Mahmood Hassan</h1>
   <p><strong>Design Systems Architect & Senior Frontend Engineer</strong></p>
   <p><em>Engineering highly scalable, accessible, and high-conversion user interfaces.</em></p>
@@ -33,12 +34,6 @@ I bridge the critical gap between complex engineering systems and pixel-perfect 
 *   📦 **Workflow Paradigm:** Component-Driven Development (CDD), Semantic HTML, and Strict Code Review Guidelines.
 *   🌐 **Accessibility Standards:** WCAG 2.1 Compliant Markup ($a11y$), ensuring high-usability metrics across all viewports.
 
-| Functional Layer | Domain Expertise | Technology Stack & Toolchain |
-| :--- | :--- | :--- |
-| **01 / Client Side** | Core & Utility-First Engines | `HTML5` · `CSS3` · `JavaScript (ES6+)` · `Tailwind CSS` · `DaisyUI` |
-| **02 / Creative Core** | UI/UX & Design Tokenization | `Figma` · `Behance` · `Adobe Creative Suite` · `Interactive Prototyping` |
-| **03 / DevOps & Ops** | Version Control & Workflows | `Git` · `GitHub Enterprise` · `VS Code` · `GitHub Actions (CI/CD)` |
-
 <br/>
 
 <p align="left">
@@ -47,43 +42,32 @@ I bridge the critical gap between complex engineering systems and pixel-perfect 
 
 ---
 
+### 🕹️ Mission Control: Contribution Snake Game
+
+<!-- Arcade Console Border Effect using Markdown blockquote -->
+> **[SYSTEM OPERATIONAL]:** Running automated contribution grid ingestion pipeline...
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mah11-dot-ui&repo=mah11-dot-ui&theme=tokyonight&show_owner=true" alt="Repo Pin" style="display:none;"/>
+  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/output/github-contribution-grid-snake-dark.svg" alt="Cyberpunk Snake Game" width="100%" />
+</p>
+
+---
+
 ### 📊 Production Telemetry & Analytics Dashboard
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <strong>Global System Status</strong><br/><br/>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mah11-dot-ui&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="System Stats" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <strong>Core Tech Distribution</strong><br/><br/>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mah11-dot-ui&layout=compact&theme=tokyonight&border_radius=8" alt="Tech Distribution" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/><strong>Development Velocity & Operational Consistency</strong><br/><br/>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mah11-dot-ui&theme=tokyonight&hide_border=false" alt="Velocity Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/><strong>Engineering Contribution Activity</strong><br/><br/>
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mah11-dot-ui&theme=tokyonight" alt="Activity Graph" />
-    </td>
-  </tr>
-  <!-- 🐍 NEW: Contribution Snake Game Integration -->
-  <tr>
-    <td colspan="2" align="center">
-      <br/><strong>Contribution Pipeline Gamification</strong><br/><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mah11-dot-ui/mah11-dot-ui/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mah11-dot-ui/mah11-dot-ui/output/github-contribution-grid-snake.svg">
-        <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mah11-dot-ui/mah11-dot-ui/output/github-contribution-grid-snake.svg" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mah11-dot-ui&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="System Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mah11-dot-ui&layout=compact&theme=tokyonight&border_radius=8" alt="Tech Distribution" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mah11-dot-ui&theme=tokyonight&hide_border=false" alt="Velocity Streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mah11-dot-ui&theme=tokyonight" alt="Activity Graph" />
+</p>
 
 ---
 
