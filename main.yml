@@ -2,16 +2,18 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # প্রতি ২৪ ঘণ্টায় অটোমেটিক আপডেট হবে
+    - cron: "0 */12 * * *" # প্রতি ১২ ঘণ্টায় আপডেট হবে
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
       - name: generate github-contribution-grid-snake.svg
