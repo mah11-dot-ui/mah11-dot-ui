@@ -44,12 +44,12 @@ I bridge the critical gap between complex engineering systems and pixel-perfect 
 
 ### 🕹️ Mission Control: Contribution Snake Game
 
-<!-- Arcade Console Border Effect using Markdown blockquote -->
-> **[SYSTEM OPERATIONAL]:** Running automated contribution grid ingestion pipeline...
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mah11-dot-ui&repo=mah11-dot-ui&theme=tokyonight&show_owner=true" alt="Repo Pin" style="display:none;"/>
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/output/github-contribution-grid-snake-dark.svg" alt="Cyberpunk Snake Game" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mah11-dot-ui/mah11-dot-ui/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mah11-dot-ui/mah11-dot-ui/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mah11-dot-ui/mah11-dot-ui/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 ---
