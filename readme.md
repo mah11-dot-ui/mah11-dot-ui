@@ -13,7 +13,7 @@ I'm Mahmood Hassan, a Senior Web Developer with extensive experience in building
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mah11-dot-ui&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-!([https://trophygithubreadmelang.cybee.dpdns.org/?username=mah11-dot-ui])
+![](https://trophygithubreadmelang.cybee.dpdns.org/?username=mah11-dot-ui)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
